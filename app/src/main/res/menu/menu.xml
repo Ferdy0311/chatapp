@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/activity_addContact"
+        android:title="Add Contact"/>
+    <item
+        android:id="@+id/activity_buttonLogout"
+        android:title="Log Out" />
+
+</menu>
